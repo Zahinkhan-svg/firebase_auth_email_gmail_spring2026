@@ -1,0 +1,1 @@
+# firebase_auth_email_gmail_spring2026
